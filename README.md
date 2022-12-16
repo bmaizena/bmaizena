@@ -1,9 +1,9 @@
 ## Olá!, Eu sou Daniel Sallesse
 
-- 🔭 Comecei a estudar progamação por conta própria e estou amando
+- 🔭 Comecei a estudar programação por conta própria e estou amando
 - 📚 Estudei cursos iniciantes de Python, JavaScript, HTML5 e CSS3
 - 🌱 Estudando Java e Kotlin no momento
-- 🤔 Procuro ajuda com alguem experiente na area de progamação (ainda tenho muita dúvida sobre meu futuro na area)
+- 🤔 Procuro ajuda com alguem experiente na area de programação (ainda tenho muita dúvida sobre meu futuro na area)
 - 📫 contate-me no email: danielsallesse/@gmail.com
 - ⚡ Fun fact: sou confeiteiro haha
 
