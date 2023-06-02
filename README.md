@@ -4,7 +4,7 @@
 - 📚 Estudei cursos iniciantes de Python, JavaScript, HTML5 e CSS3
 - 🌱 Estudando...
 - 🤔 Procuro ajuda com alguem experiente na area de programação (ainda tenho muita dúvida sobre meu futuro na area)
-- 📫 contate-me no email: danielsallesse/@gmail.com
+- 📫 contate-me no email: danielsallesse@gmail.com
 - ⚡ Fun fact: sou confeiteiro haha
 
 <div align="center">
