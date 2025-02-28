@@ -2,8 +2,8 @@
 
 - 🔭 Comecei a estudar programação por conta própria
 - 📚 Estudei cursos iniciantes de Python, JavaScript, HTML5 e CSS3
+- 🎓 Curso Técnico em Desenvolvimento de Sistemas na ETEC-SP (3/3)
 - 🌱 Cursando ADS na universidade positivo (1/4)...
-- 🤔 Procuro ajuda com alguem experiente na area da programação
 - 📫 contate-me no email: danielsallesse@gmail.com
 - ⚡ Fun fact: sou confeiteiro
 
